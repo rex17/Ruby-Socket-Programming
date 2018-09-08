@@ -1,0 +1,4 @@
+development:
+  socket_details:
+    hostname: 'localhost'
+    port: 20000
