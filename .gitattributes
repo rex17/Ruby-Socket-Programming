@@ -1,2 +1,3 @@
-doc/* linguist-documentation
-.yardoc/* linguist-documentation
+doc/**/* linguist-documentation
+.yardoc/**/* linguist-documentation
+coverage/**/* linguist-documentation
